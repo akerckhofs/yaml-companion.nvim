@@ -1,4 +1,4 @@
-KUBERNETES_VERSION=1.22.4
+KUBERNETES_VERSION=1.27.9
 DOCKER_CI=ghcr.io/someone-stole-my-name/yaml.nvim-ci:0.8.0
 
 lint:
